@@ -1,0 +1,7 @@
+1. What is "using namespace std" and why we use it?
+Ans:
+using - using
+namespace - is a collection of functions, classes and variables
+std - is a name of c++ standard library
+
+C++ এর identifier গুলো  std নামের namespace থাকে। "using namespace std" লাইনটি দ্বারা বোঝানো হচ্ছে  std নামের namespace টিকে ডিরেক্টলি প্রোগ্রামে ব্যবহার করা হবে।
